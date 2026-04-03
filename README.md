@@ -268,3 +268,6 @@ Models like `dolphin-mistral` and `llama3-uncensored` have reduced content filte
 *Last updated: April 2026 | Ollama v0.5+ | Termux v0.118+*
 
 📥 **Need help?** Report issues on [Termux GitHub](https://github.com/termux/termux-packages) or [Ollama GitHub](https://github.com/ollama/ollama).
+
+---
+[Here's the complete .sh script in English, based on the tutorial:](https://github.com/LvL23HT/-Complete-Tutorial-Install-Ollama-on-Termux-Android-/blob/main/ollama-termux-installer.md#-complete-script-install-ollama-on-termux-android)
